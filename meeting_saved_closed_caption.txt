@@ -1,0 +1,3624 @@
+[Eva Montoya Davis] 12:27:53
+Yeah.
+
+[Genius Machado] 12:27:56
+A message and see if you got all of you guys can add a file or say, like an at least create one.
+
+[sharanya dave] 12:28:04
+Okay.
+
+[Christopher Ospina] 12:28:06
+Did you check the files to see if my messages there?
+
+[Genius Machado] 12:28:10
+I'm gonna do right away. Yeah, test file right?
+
+[Eva Montoya Davis] 12:28:10
+Yes, your message is there this lineup?
+
+[Christopher Ospina] 12:28:15
+Great, it works.
+
+[Genius Machado] 12:28:15
+3 min ago. Yeah, perfectly.
+
+[Genius Machado] 12:28:23
+This is the test message, and.
+
+[Genius Machado] 12:28:26
+Oh, it happens he's who contributed. That's good.
+
+[Genius Machado] 12:28:29
+We have the time. 7 of the stuff.
+
+[sharanya dave] 12:28:42
+Yeah, price and test.
+
+[Genius Machado] 12:28:50
+Okay.
+
+[Genius Machado] 12:29:05
+Okay, and let me see if I can upload my file.
+
+[sharanya dave] 12:29:16
+Yeah.
+
+[Genius Machado] 12:29:17
+Was that ours? So that was one of the lectures, though ours is Imdb is gonna be this.
+
+[Eva Montoya Davis] 12:29:21
+Hi, Mdv.
+
+[Eva Montoya Davis] 12:29:24
+Yes, yes.
+
+[sharanya dave] 12:29:25
+Yeah.
+
+[Genius Machado] 12:29:27
+Let's have it on. Let's have it over here. So.
+
+[sharanya dave] 12:29:32
+How much changes!
+
+[Genius Machado] 12:29:33
+Files via upload. Add an optional like a main branch.
+
+[Genius Machado] 12:29:38
+All right. Save changes.
+
+[Genius Machado] 12:29:46
+Where it go.
+
+[sharanya dave] 12:29:54
+Yeah, yeah, I got it.
+
+[Genius Machado] 12:29:56
+Oh, it's time. Yeah, it's a refresher.
+
+[Genius Machado] 12:30:01
+Okay, so.
+
+[Genius Machado] 12:30:07
+No, we can't delete it right. I can't do it, I guess. Maybe yeah.
+
+[Genius Machado] 12:30:12
+So we don't need the test messages. I'm gonna get rid of the test messages.
+
+[sharanya dave] 12:30:15
+Yeah.
+
+[Christopher Ospina] 12:30:16
+Yeah, they're only to see if we could collaborate.
+
+[Genius Machado] 12:30:19
+Yeah, yeah. And then this one as well, just delete it.
+
+[Genius Machado] 12:30:30
+Now we have the I don't think we we don't even need this phone file. Let's not keep it over there for confusing.
+
+[Genius Machado] 12:30:40
+Okay, there's gonna be another file now, I guess main.main.py.
+
+[Genius Machado] 12:30:51
+Yes, sir. Then we start with everybody, but I can see it's there.
+
+[Christopher Ospina] 12:30:55
+That's gonna be our main python file.
+
+[Genius Machado] 12:31:12
+Functionality.
+
+[Genius Machado] 12:31:16
+What's wrong? Yeah. Function that, hey? And.
+
+[sharanya dave] 12:31:18
+Yeah, yeah, it's correct.
+
+[Genius Machado] 12:31:26
+Function called in here. That's the main function so let's keep it this way.
+
+[Genius Machado] 12:31:36
+And then everybody has their hmm, yeah, everybody has a file, though.
+
+[Genius Machado] 12:31:41
+I mean, we can either start putting the code over here, or like we can have, like, you know, different files, for like, save with a Chris Py shattering and py genius.py and everybody else take have their own functionalities.
+
+[Genius Machado] 12:31:56
+And then maybe we can like, you know, post the sources are like, you know, external external function, so say, like these methods in python, like we can connect them in the main dog Pyi at the end.
+
+[Genius Machado] 12:32:09
+But what I think is like, you know, if we all work on the same file main.py that way, I have access to what Chris is doing over here, and I can use the same variables or like, you know, for them for link and stuff and maybe he's working on the yeah, that data set if you getting rid of the null values. And if I'm working on
+
+[Genius Machado] 12:32:27
+like, you know, getting the average feel like, you know, doing Max pulling and stuff like that.
+
+[Genius Machado] 12:32:34
+And I can use the same variables, and I can even help him do his quarters all of the same thing.
+
+[sharanya dave] 12:32:38
+Okay.
+
+[Genius Machado] 12:32:39
+We can do it this way. So, like, you know, we can start the call like you don't mean the on main.py, as a matter of fact, we can get you to get started right now.
+
+[Genius Machado] 12:32:47
+So what I was thinking about as they, you guys let me.
+
+[Christopher Ospina] 12:32:49
+But who's gonna be responsible for what work?
+
+[sharanya dave] 12:32:52
+Yeah.
+
+[Genius Machado] 12:32:53
+We can divide it, we can divide it in equally, but you know, no, this thing is, gonna do half of the easier I do.
+
+[Genius Machado] 12:33:04
+So!
+
+[Christopher Ospina] 12:33:07
+You use chat? Bt!
+
+[Genius Machado] 12:33:09
+At Jpt. Yeah, I use it as an assistant. Bye.
+
+[Christopher Ospina] 12:33:11
+My dad uses it too.
+
+[Genius Machado] 12:33:13
+Everybody should, I think I think everybody should be like, you know, like yes, sir, it does.
+
+[Christopher Ospina] 12:33:15
+Doesn't require an account.
+
+[Genius Machado] 12:33:19
+And just a Google account.
+
+[Christopher Ospina] 12:33:19
+Do they, Bill? You!
+
+[Eva Montoya Davis] 12:33:20
+Hello! Oh, I think.
+
+[sharanya dave] 12:33:21
+Oh, no, no! It's free!
+
+[Genius Machado] 12:33:22
+I mean, it's kind of free. It's just a Google account or you just need an email, Id and password to sign up. That's it.
+
+[Genius Machado] 12:33:27
+So that way, they store your data. You know. You see how I got all these like, you know, that's my history.
+
+[Genius Machado] 12:33:33
+So, like, yeah.
+
+[Genius Machado] 12:33:38
+Alright write a python code to enable.
+
+[Christopher Ospina] 12:33:44
+Before you know what all our jobs are going to require. Gpt.
+
+[Genius Machado] 12:33:47
+Say that you scared me. The mood.
+
+[Genius Machado] 12:33:53
+There we go, Csv. That I'll save file and.
+
+[Genius Machado] 12:34:05
+Right. If I use a Csv file and okay, well done.
+
+[Genius Machado] 12:34:12
+Well used, and also.
+
+[Genius Machado] 12:34:15
+Good average.
+
+[Genius Machado] 12:34:21
+No way, wake up!
+
+[Genius Machado] 12:34:56
+Okay. Okay. So far is all good.
+
+[Genius Machado] 12:35:11
+Let me stop this!
+
+[Genius Machado] 12:35:18
+She wants us to write down.
+
+[Eva Montoya Davis] 12:35:22
+On that explanation, you should copy it through, because, like, she wants us to write down everything right
+
+[sharanya dave] 12:35:35
+I need it in the presentation.
+
+[sharanya dave] 12:35:43
+Just copy it somewhere. In a word, final thing.
+
+[Genius Machado] 12:35:45
+It will be there, it will be there it will be always be here, so.
+
+[Genius Machado] 12:35:49
+But yeah, what else are we supposed to do with this one like, you know, we all I mean, look for now we have the files being read we are removing the null values. It.
+
+[Genius Machado] 12:36:02
+Drop any and then file missing values with average. But you know what has to be more specific in detail about this code, like she's not expecting us to write the court this way. What she's expecting us is like, you know, she wants us to have a package name Pandas Spd in
+
+[Genius Machado] 12:36:21
+our!
+
+[Christopher Ospina] 12:36:21
+Oh! And none as are am I referring to numpy?
+
+[Eva Montoya Davis] 12:36:26
+Number 5.
+
+[Christopher Ospina] 12:36:26
+Is that what we're missing?
+
+[Genius Machado] 12:36:27
+Yeah, we use nonprofit right? Now.
+
+[Genius Machado] 12:36:31
+The quarters of Chanty Pds are using, or if you want, I mean, you know what.
+
+[Genius Machado] 12:36:38
+I can just pass it an instruction, do it, using the not apply.
+
+[Genius Machado] 12:36:43
+What is that? Module or library?
+
+[Eva Montoya Davis] 12:36:50
+Yeah. And she wants us to use Matlab tool.
+
+[Genius Machado] 12:36:54
+Yeah, what do we have to use Matlab for?
+
+[Eva Montoya Davis] 12:36:57
+4 big graphs.
+
+[sharanya dave] 12:36:57
+Well for the biographs and everything.
+
+[Genius Machado] 12:37:00
+Okay, let's.
+
+[sharanya dave] 12:37:06
+That is meant, not link.
+
+[Genius Machado] 12:37:08
+Okay.
+
+[Genius Machado] 12:37:16
+All right, all right.
+
+[Genius Machado] 12:37:23
+If I can put this over here.
+
+[Genius Machado] 12:37:32
+This one goes wherein up got it, paste it.
+
+[Genius Machado] 12:37:41
+We don't need this way. Oh, no, we actually do.
+
+[Genius Machado] 12:37:43
+We're gonna read it.
+
+[Genius Machado] 12:37:48
+Wait. Are you telling me this shuttle is being redundant now?
+
+[Christopher Ospina] 12:37:50
+And this we didn't even learn in class, except for you can keep that so undo what you just did, and then keep the read Scv.
+
+[sharanya dave] 12:37:53
+Yeah, we did not.
+
+[Eva Montoya Davis] 12:37:53
+Hmm.
+
+[Genius Machado] 12:38:01
+Oh, okay. Control. Z works over here. Okay.
+
+[sharanya dave] 12:38:04
+Yeah, it does also just keep Df equals to period or read Gisp data set.
+
+[sharanya dave] 12:38:14
+Dot Csv. Just keep that rest. You will have to take it off.
+
+[Genius Machado] 12:38:17
+What this one?
+
+[sharanya dave] 12:38:19
+Yeah, everything.
+
+[Genius Machado] 12:38:22
+No, we did this. We did this in class, I know she thought it.
+
+[Genius Machado] 12:38:29
+She thought this one in the class. Yeah, this is Nonpire library. We're getting the I get from text like, you know, she said.
+
+[Genius Machado] 12:38:34
+Like in general, or from what is it like as a string input?
+
+[Genius Machado] 12:38:37
+And then the de- limiters means, like, you know, from between the 2 that as well, there is a comma in the data set like to hear.
+
+[Genius Machado] 12:38:43
+Wait, was where's the Imdb file downloads? Let me show you.
+
+[Genius Machado] 12:38:49
+By the way, Imdb, right here. Yeah. So wherever we have, like a comma over here, look at this.
+
+[Genius Machado] 12:38:57
+It's gonna be limited and like the limit stands for, like, you know, bifurcation, or say, like, you know, so that's how the that's how the system knows, like, you know, that's a different feel like this one.
+
+[Genius Machado] 12:39:10
+And this one there's gonna be a comma when you put this, when the computer reads this, and that is specified with a comma.
+
+[Genius Machado] 12:39:19
+That up? Then what is is Ne e n is not available, or something like that exist equals.
+
+[Eva Montoya Davis] 12:39:27
+Oh, yes, yes, that's.
+
+[Genius Machado] 12:39:30
+One probably means false. Yeah, that thing drops them now where you see.
+
+[sharanya dave] 12:39:34
+Hmm!
+
+[Genius Machado] 12:39:36
+And this is average filling.
+
+[Eva Montoya Davis] 12:39:36
+Yeah, and then available is to to avoid the data that doesn't have the numbers.
+
+[Genius Machado] 12:39:44
+Yeah, and this is using a mean function right now.
+
+[Eva Montoya Davis] 12:39:45
+Yep.
+
+[Genius Machado] 12:39:49
+Mean method, I guess. All right. Just be to clean that up. Okay.
+
+[Genius Machado] 12:39:55
+We can use this. This was displaying the data answer.
+
+[Genius Machado] 12:40:00
+Here again again. What do we need a week to see if we can get?
+
+[Genius Machado] 12:40:09
+Okay. I just missed on some important thing right now, Eva, you said.
+
+[Genius Machado] 12:40:13
+And what was it? I remember it was about something like that.
+
+[Genius Machado] 12:40:19
+Yeah, right? Matt, okay, so we are gonna use it.
+
+[Eva Montoya Davis] 12:40:19
+Yes.
+
+[Genius Machado] 12:40:25
+For you know Eda's the enhanced at what is it for Eva going?
+
+[Genius Machado] 12:40:30
+The Edi graphs getting the pictorial representations on the screen.
+
+[Genius Machado] 12:40:34
+Hmm! I can see.
+
+[Genius Machado] 12:40:40
+Do some Ada?
+
+[Genius Machado] 12:40:44
+On the data set. And it's play. Okay, using fig.
+
+[Christopher Ospina] 12:40:55
+Madlib.
+
+[Genius Machado] 12:40:56
+And up, Matt, yeah, yeah, what was it? Soap, opera?
+
+[Genius Machado] 12:41:00
+Right upload.
+
+[Christopher Ospina] 12:41:00
+Yeah. Sub plots.
+
+[Genius Machado] 12:41:07
+Let's see.
+
+[Genius Machado] 12:41:13
+Is it smart enough to do it? I don't know.
+
+[sharanya dave] 12:41:17
+So we'll have to test it, because I really don't trust Chat.
+
+[Genius Machado] 12:41:24
+Yeah, we'll keep this in it. We will just keep it a blank in there. Yeah.
+
+[sharanya dave] 12:41:27
+Hmm!
+
+[Eva Montoya Davis] 12:41:28
+Yeah, there he is.
+
+[Genius Machado] 12:41:34
+Always doing it. That's a good thing. But you know, all we have to keep in mind is like, you know, Vcs we file now the new Csv file, like the clean data center.
+
+[Genius Machado] 12:41:43
+All it had been renamed. So in our code over here, the Csv file was still the still named, as what is it?
+
+[sharanya dave] 12:41:51
+Hi!
+
+[Genius Machado] 12:41:53
+Data center. Csv, I guess, yeah.
+
+[sharanya dave] 12:41:56
+You can just rename the file.
+
+[Genius Machado] 12:41:59
+Yeah, I'll do that after this one. But let's see, what's this one going?
+
+[Genius Machado] 12:42:03
+This is making like lot more easier to use. Imagine having doing all these like just by yourself.
+
+[Genius Machado] 12:42:08
+Sorry for scratch, no way.
+
+[Eva Montoya Davis] 12:42:11
+Wow!
+
+[Genius Machado] 12:42:15
+And, by the way, you just play around with the few couple of variable names, the function names use a beautifier.
+
+[Genius Machado] 12:42:22
+So, you know, have played with the indentation. And this python code is gonna be like as good as like, you know, you can even turn it in.
+
+[Genius Machado] 12:42:28
+And you're just gonna go without any cause of pleasure and stuff.
+
+[Genius Machado] 12:42:31
+So it's actually oh, it's a good thing I should stop bragging about chatting with you.
+
+[Genius Machado] 12:42:36
+But yeah, it is what it is.
+
+[Genius Machado] 12:42:47
+Clean data print? No? Oh, where was it? Where? Where was it?
+
+[Genius Machado] 12:42:53
+Data. Also, it was data. So we don't have to do all of this.
+
+[sharanya dave] 12:42:57
+Imports like import stable.
+
+[Genius Machado] 12:43:00
+No, no, we don't, have we?
+
+[Genius Machado] 12:43:04
+All we gotta do over here is like it was data, until here we had the display, the clean data.
+
+[Genius Machado] 12:43:09
+Is it in the form? The variable object data? Let's keep it.
+
+[Genius Machado] 12:43:11
+This way, it wasn't the object that until here, okay, for the cleaning, the dropping, the null values filling average values and mean over here.
+
+[sharanya dave] 12:43:19
+Okay.
+
+[Genius Machado] 12:43:19
+It was data now. Certainly all of a sudden it has become df, right.
+
+[Genius Machado] 12:43:25
+So let's keep it that again. So this is that.
+
+[Genius Machado] 12:43:28
+No, this is, we don't need it. We don't need this. Actually, we don't have to read the file.
+
+[sharanya dave] 12:43:30
+How are you doing?
+
+[Genius Machado] 12:43:34
+Okay.
+
+[Genius Machado] 12:43:37
+And a clear figure with 3 support.
+
+[Genius Machado] 12:43:41
+Hmm, okay, this is got nothing to do with the data.
+
+[Genius Machado] 12:43:46
+It's just using the screen space. And over here, yeah, there you go over here.
+
+[Eva Montoya Davis] 12:43:48
+Thank you.
+
+[Genius Machado] 12:43:52
+You need.
+
+[Genius Machado] 12:43:56
+Yeah, over here, we need.
+
+[Genius Machado] 12:44:02
+Okay.
+
+[Genius Machado] 12:44:06
+And then.
+
+[Genius Machado] 12:44:13
+And where else set title?
+
+[Genius Machado] 12:44:18
+Distribution is the that's good.
+
+[Genius Machado] 12:44:27
+Have I imported this one in the beginning plan? This has Pdm network that.
+
+[Genius Machado] 12:44:56
+Okay. So I think we got 1, 2, 3, 3 subplots.
+
+[Genius Machado] 12:45:03
+And what else can we do? What else can we use?
+
+[Genius Machado] 12:45:14
+Oh, okay, solar file. You wanna share the screen.
+
+[Eva Montoya Davis] 12:45:20
+Hi ams!
+
+[Christopher Ospina] 12:45:23
+Let me check my Google Collab.
+
+[Genius Machado] 12:45:57
+Oh, wow! Look at this! It's even giving scatter metrics.
+
+[Genius Machado] 12:46:00
+She just started in the last class, scatter metrics.
+
+[Eva Montoya Davis] 12:46:03
+No.
+
+[Christopher Ospina] 12:46:05
+See, that's why it's important that I had a sec.
+
+[Christopher Ospina] 12:46:07
+I minimize the Zoom Meeting, and then I had a second tab to to do all the code on.
+
+[Genius Machado] 12:46:12
+Wow!
+
+[Eva Montoya Davis] 12:46:16
+Yeah, you have the correct.
+
+[Christopher Ospina] 12:46:16
+But not minimize, minimize, but minimize it enough. So I still could see it. Well.
+
+[Christopher Ospina] 12:46:21
+But I could code along.
+
+[Genius Machado] 12:46:22
+Okay, okay, that's good.
+
+[Eva Montoya Davis] 12:46:25
+You get the correlation.
+
+[Genius Machado] 12:46:27
+Correlation matrix as well. Wow! I did this last. I last semester.
+
+[Eva Montoya Davis] 12:46:30
+Yeah.
+
+[Genius Machado] 12:46:33
+I took a classical introduction to deep learning we talked about Professor Tassoos, and he called us all of these.
+
+[Genius Machado] 12:46:39
+So if you guys did any explanation, if you guys stuck a desktop and I, I can be more than happy to help. Like, you know, co-relation matrix defines like, you know, like on the this, if wait where is it?
+
+[Christopher Ospina] 12:46:50
+You could also use W. Freefree schools.
+
+[Genius Machado] 12:46:53
+Yeah, so it's available over there, too. We use it.
+
+[Genius Machado] 12:46:59
+We use the tutorials point something like that, and.
+
+[Eva Montoya Davis] 12:47:03
+So we can create a correlation between the growth.
+
+[Genius Machado] 12:47:07
+Yeah, yeah, yeah.
+
+[Eva Montoya Davis] 12:47:07
+It grows revenue on.
+
+[Genius Machado] 12:47:13
+Right. You're right.
+
+[Eva Montoya Davis] 12:47:23
+And what's the name of the other one? I'll request.
+
+[Genius Machado] 12:47:28
+1 56.
+
+[Genius Machado] 12:47:32
+Of course. Again, of course.
+
+[Eva Montoya Davis] 12:47:40
+Correlation. We can get a correlation between the gross revenue and the middle school, or they I. The ratings.
+
+[Eva Montoya Davis] 12:47:56
+So they hired the the ratings. The more earnings.
+
+[Genius Machado] 12:48:03
+Yeah kind of display. It's gonna give us more more details about it.
+
+[Eva Montoya Davis] 12:48:07
+Yes.
+
+[Genius Machado] 12:48:10
+But I'll have to pass those I mean.
+
+[Genius Machado] 12:48:12
+Those are those those but also to chat Gp, so that he can specifically do it.
+
+[Eva Montoya Davis] 12:48:19
+Yes.
+
+[Genius Machado] 12:48:19
+Before that I need idea what I'm I'm gonna run this code right now.
+
+[Genius Machado] 12:48:24
+See how it got a matrix for features. No, hmm! Good relation to you. Now.
+
+[Genius Machado] 12:48:34
+I think it can be good enough right now.
+
+[Genius Machado] 12:48:46
+For. Now, if you guys can see the code. Okay.
+
+[Christopher Ospina] 12:48:50
+And we could just copy and paste it into into Jupiter.
+
+[Genius Machado] 12:48:53
+Yeah. Sure. Sure. Why not?
+
+[Genius Machado] 12:48:58
+What I was gonna do. But.
+
+[Christopher Ospina] 12:48:59
+Oh, Google, Collab, that work.
+
+[Genius Machado] 12:49:01
+Yeah, like, I was thinking about, why not? Why not? Vs.
+
+[Genius Machado] 12:49:09
+Crazy. I'm pretty sure he's gonna ask me to download all I mean, I'm gonna have to install.
+
+[Genius Machado] 12:49:13
+You know the what is it?
+
+[Genius Machado] 12:49:21
+A new, far away. What am I doing?
+
+[sharanya dave] 12:49:24
+Just create a new phone.
+
+[Genius Machado] 12:49:26
+Yeah.
+
+[sharanya dave] 12:49:28
+Yeah, whatever.
+
+[Genius Machado] 12:49:31
+I can do this one too.
+
+[Genius Machado] 12:49:35
+But the IP Y support. Yeah.
+
+[Genius Machado] 12:49:39
+This this is good. No, this is not.
+
+[Eva Montoya Davis] 12:49:43
+Yeah.
+
+[Genius Machado] 12:49:48
+Cause I I don't wanna do it all individually.
+
+[Genius Machado] 12:49:51
+Copy and paste each and every text.
+
+[sharanya dave] 12:49:54
+No, no, just by somebody. Yeah.
+
+[Genius Machado] 12:49:56
+Yeah, this is faster.
+
+[Genius Machado] 12:50:18
+Everything is on track.
+
+[Genius Machado] 12:50:24
+Okay. Okay. Okay.
+
+[Genius Machado] 12:50:29
+No, no, they shouldn't be the name Greening.
+
+[Genius Machado] 12:50:34
+Already. Come on!
+
+[Genius Machado] 12:50:39
+I'm trying to rename it. I don't know.
+
+[Genius Machado] 12:50:42
+I don't wanna keep it this way, like.
+
+[Genius Machado] 12:50:47
+Whatever.
+
+[sharanya dave] 12:50:48
+Yeah, that's wonderful.
+
+[Genius Machado] 12:50:50
+Oh, wait! I forgot to put the data set fire over here.
+
+[Genius Machado] 12:50:55
+I have to put it up here, too, I just gotta paste it.
+
+[Genius Machado] 12:50:57
+I just gotta paste it. That's it.
+
+[Genius Machado] 12:51:05
+And then copy there.
+
+[Genius Machado] 12:51:12
+This? What is this?
+
+[Genius Machado] 12:51:20
+Social marketplace. Do and show again for Csv.
+
+[sharanya dave] 12:51:20
+This is the play
+
+[Genius Machado] 12:51:26
+Well, that's huge.
+
+[Genius Machado] 12:51:30
+It's a one huge bump, I guess, that I said.
+
+[Genius Machado] 12:51:43
+What does this not show over here? I mean, I'm expecting it to be.
+
+[Genius Machado] 12:51:59
+No do like this.
+
+[Genius Machado] 12:52:04
+That's very stupid of me. I didn't know save it.
+
+[Genius Machado] 12:52:15
+Okay, hopefully. Now, we have.
+
+[Genius Machado] 12:52:23
+Come on. The Vs code was supposed to make life easier, but.
+
+[Genius Machado] 12:52:45
+No. Terminal, yeah. Yeah.
+
+[Genius Machado] 12:52:51
+Just wait there!
+
+[Genius Machado] 12:53:00
+Okay.
+
+[Genius Machado] 12:53:06
+Yes. Nope.
+
+[Genius Machado] 12:53:17
+Okay, it's not legible cause. I have to.
+
+[Genius Machado] 12:53:29
+Yup!
+
+[Genius Machado] 12:53:36
+Hi! It's on!
+
+[sharanya dave] 12:53:50
+I don't think this will work.
+
+[Genius Machado] 12:53:52
+Bye!
+
+[sharanya dave] 12:53:54
+What are you writing? CD. Python, Midterm.
+
+[Genius Machado] 12:53:57
+Yeah. It's a folder that I created on my desktop.
+
+[Genius Machado] 12:53:59
+So I just wanna change the directory, too. Desktop this one.
+
+[Genius Machado] 12:54:04
+I wanna get in here.
+
+[Genius Machado] 12:54:07
+Oh, wait! It's not a full it's a file, not bad.
+
+[Genius Machado] 12:54:14
+I can just pip in stock. No, yeah, I can.
+
+[Genius Machado] 12:54:20
+What the module named.
+
+[Genius Machado] 12:54:30
+Hmm!
+
+[Genius Machado] 12:54:46
+Pandas, Numpy and Mattblot. These are the missing input.
+
+[Genius Machado] 12:54:57
+Let's do Pan as a nonprofit.
+
+[Eva Montoya Davis] 12:55:00
+What happened is that you have to download math lab.
+
+[sharanya dave] 12:55:05
+Hmm. Not worth anything
+
+[Genius Machado] 12:55:08
+Like this?
+
+[Eva Montoya Davis] 12:55:08
+Yes, you have to download it. That's quiet.
+
+[Eva Montoya Davis] 12:55:14
+Economic find it to import it there.
+
+[Genius Machado] 12:55:15
+Okay, I've got pandas. I get numb by as well.
+
+[Genius Machado] 12:55:23
+Is billing.
+
+[Eva Montoya Davis] 12:55:27
+Installed.
+
+[Genius Machado] 12:55:33
+It it already exist in my!
+
+[Genius Machado] 12:55:36
+Okay.
+
+[Eva Montoya Davis] 12:55:36
+Yes, numpy, it says, but not much a lot, I think.
+
+[Genius Machado] 12:55:44
+Yeah, but I was still getting an error for this one.
+
+[Genius Machado] 12:55:47
+Anyways.
+
+[Eva Montoya Davis] 12:55:49
+Yeah.
+
+[Genius Machado] 12:55:58
+You see all these packages already? Yeah.
+
+[Eva Montoya Davis] 12:55:58
+Yeah, you have it. They are already there. So why keep saying that you don't product?
+
+[Genius Machado] 12:56:08
+And the code does enroll is, is, it? Is it? Has it got something to do with my environment?
+
+[Genius Machado] 12:56:14
+Variables.
+
+[Genius Machado] 12:56:17
+Maybe Chris can step in and help me. I'm pretty sure Chris knows it.
+
+[Christopher Ospina] 12:56:23
+Okay, let me take a look here. So what's your issue?
+
+[Genius Machado] 12:56:25
+Yes, when I hit Run when I started running the core, it doesn't do nothing, but I get us free.
+
+[Genius Machado] 12:56:35
+Problem statement 3 problem cannot basically your modules or imports missing.
+
+[Christopher Ospina] 12:56:40
+Did you try checking for like any extensions on Vs code?
+
+[Genius Machado] 12:56:45
+No, I haven't done nothing on this Ps code.
+
+[Genius Machado] 12:56:48
+It's a fresh vehicle.
+
+[Christopher Ospina] 12:56:49
+I try looking for? Tried looking for python extensions.
+
+[Genius Machado] 12:56:56
+Like over here.
+
+[Christopher Ospina] 12:56:57
+I think it's on.
+
+[Genius Machado] 12:56:59
+Over here.
+
+[Christopher Ospina] 12:57:00
+The blocks.
+
+[Genius Machado] 12:57:03
+Extension.
+
+[Christopher Ospina] 12:57:06
+It's not here.
+
+[Genius Machado] 12:57:06
+Over here. Line 1, 2, 3!
+
+[Eva Montoya Davis] 12:57:07
+It's all in it's all at the beginning of the call line.
+
+[Eva Montoya Davis] 12:57:13
+One line, 2 on line, 3.
+
+[Eva Montoya Davis] 12:57:17
+Yeah, yes, that's what it says. There!
+
+[Christopher Ospina] 12:57:18
+Or wait a minute. Better just click on the lines and see what, how you could fix it.
+
+[Christopher Ospina] 12:57:25
+Where the error messages.
+
+[Genius Machado] 12:57:27
+It's right over here.
+
+[Christopher Ospina] 12:57:29
+No click on the underline that has the no red, squiggly line.
+
+[Genius Machado] 12:57:32
+Yeah, it's given me a bunch of the documentation on that.
+
+[Genius Machado] 12:57:39
+This one?
+
+[Eva Montoya Davis] 12:57:40
+Any up there.
+
+[Genius Machado] 12:57:43
+You want me to click over here right?
+
+[Christopher Ospina] 12:57:44
+Yeah, click on the red, squiggly line.
+
+[Genius Machado] 12:57:48
+Okay.
+
+[Christopher Ospina] 12:57:51
+On the code itself.
+
+[Eva Montoya Davis] 12:57:53
+It code.
+
+[Genius Machado] 12:57:57
+Where is it? At?
+
+[Genius Machado] 12:58:02
+Here!
+
+[Christopher Ospina] 12:58:10
+Report, Missing, module, source.
+
+[Genius Machado] 12:58:12
+No quick fixes available.
+
+[Genius Machado] 12:58:20
+Wait. Is it because I saved this python file on my desktop?
+
+[Genius Machado] 12:58:23
+Does it have to be in the same folder as what is this?
+
+[Genius Machado] 12:58:28
+Anaconda, live site packages.
+
+[Christopher Ospina] 12:58:32
+Maybe.
+
+[Genius Machado] 12:58:34
+Let's see.
+
+[Genius Machado] 12:58:41
+Hmm!
+
+[Genius Machado] 12:58:44
+Alright!
+
+[Genius Machado] 12:58:51
+It was inside packages.
+
+[Genius Machado] 12:58:57
+There is all the modules over here. Actually, there's a lot over here.
+
+[Eva Montoya Davis] 12:58:58
+In the library.
+
+[Eva Montoya Davis] 12:59:02
+Library.
+
+[Genius Machado] 12:59:04
+We have everything I can search for, say, like numpy.
+
+[Genius Machado] 12:59:07
+And hey, how are you even have okay?
+
+[Genius Machado] 12:59:18
+We even have.
+
+[Genius Machado] 12:59:25
+But also this issue later. You know, this is supposed to be just past.
+
+[Genius Machado] 12:59:30
+We do get things done, but seems like it's not working. What I can do right now is control a controlling.
+
+[Genius Machado] 12:59:51
+Hmm, yeah. A new logo. Yeah.
+
+[Eva Montoya Davis] 12:59:51
+Contour p.
+
+[Genius Machado] 13:00:01
+Okay? And then the whole cordial location, or, like, you know, say!
+
+[Genius Machado] 13:00:09
+I'm not sure if I can just do paste regular paste.
+
+[Genius Machado] 13:00:16
+Yeah, but it's gonna be in one single block.
+
+[Eva Montoya Davis] 13:00:19
+Yeah.
+
+[Genius Machado] 13:00:21
+And this one.
+
+[Genius Machado] 13:00:26
+Needs to go right here.
+
+[Genius Machado] 13:00:35
+What just happened?
+
+[Genius Machado] 13:01:01
+We have.
+
+[Genius Machado] 13:01:09
+No!
+
+[sharanya dave] 13:01:14
+Hmm.
+
+[Genius Machado] 13:01:17
+This is not the one.
+
+[Genius Machado] 13:01:21
+That's not the one.
+
+[Christopher Ospina] 13:01:24
+Well, it comes like this, no matter what you use.
+
+[Genius Machado] 13:01:26
+Oh, it does! Oh, so where's the data set, anyways?
+
+[Christopher Ospina] 13:01:31
+You gotta import it.
+
+[Genius Machado] 13:01:31
+No, it must be something.
+
+[Christopher Ospina] 13:01:39
+Or put on Google drive.
+
+[Genius Machado] 13:01:44
+Okay.
+
+[Christopher Ospina] 13:01:45
+Yes, mom.
+
+[Eva Montoya Davis] 13:01:57
+You have to upload it to Google, Google, drive from Google, Drive.
+
+[Eva Montoya Davis] 13:02:03
+You can.
+
+[Genius Machado] 13:02:04
+Okay.
+
+[Christopher Ospina] 13:02:05
+You do. Source done dry, no source slash, no contents.
+
+[Genius Machado] 13:02:12
+Yeah.
+
+[Christopher Ospina] 13:02:12
+Slash, drive, slash my drive! Slash the filing!
+
+[Genius Machado] 13:02:16
+Src. Equals, content, right.
+
+[Christopher Ospina] 13:02:17
+That's how she does it. Hmm!
+
+[Christopher Ospina] 13:02:21
+No parentheses.
+
+[Genius Machado] 13:02:23
+Like no, this was good.
+
+[Genius Machado] 13:02:28
+Parentheses.
+
+[Genius Machado] 13:02:32
+You know what?
+
+[Christopher Ospina] 13:02:32
+Let me see how I have it.
+
+[sharanya dave] 13:02:39
+You can just add the file.
+
+[Christopher Ospina] 13:02:41
+Oh, yeah, there it is. Pd, dot read. Scv.
+
+[Genius Machado] 13:02:43
+Where?
+
+[Genius Machado] 13:02:47
+Pd.
+
+[Christopher Ospina] 13:02:48
+No like what you have it the read, the underscore Scv.
+
+[Christopher Ospina] 13:02:52
+You have that right so far.
+
+[Christopher Ospina] 13:02:57
+And inside the parentheses. It's contents.
+
+[Christopher Ospina] 13:03:00
+Slash!
+
+[Genius Machado] 13:03:02
+Okay.
+
+[Christopher Ospina] 13:03:08
+I'm gonna put in the chat.
+
+[Genius Machado] 13:03:10
+Okay.
+
+[Christopher Ospina] 13:03:37
+And instead of file name, it's the name of a file you have.
+
+[Genius Machado] 13:03:45
+What was it?
+
+[sharanya dave] 13:03:48
+No, it was not the 5 you imported as well.
+
+[sharanya dave] 13:03:52
+Idbc.
+
+[Genius Machado] 13:03:55
+I am eb.
+
+[Genius Machado] 13:04:09
+No, no, no, no, no!
+
+[sharanya dave] 13:04:12
+Yeah.
+
+[Genius Machado] 13:04:15
+I, Amdb, and this goes up and just go 1,000.
+
+[Christopher Ospina] 13:04:19
+And get rid of that extra quotation mark.
+
+[Genius Machado] 13:04:22
+Okay.
+
+[Christopher Ospina] 13:04:29
+Oops!
+
+[Christopher Ospina] 13:04:35
+Hmm, let. Okay, let me see what the what I have on mine.
+
+[Genius Machado] 13:04:39
+Okay.
+
+[Christopher Ospina] 13:04:41
+There's no quotation marks in the file name, so get rid of that.
+
+[Genius Machado] 13:04:44
+Okay, yeah, okay, let's okay. That's it.
+
+[Christopher Ospina] 13:04:48
+And no can no keep the last one.
+
+[Genius Machado] 13:04:52
+I can give you the last one or not.
+
+[Christopher Ospina] 13:04:53
+Yup!
+
+[Genius Machado] 13:04:55
+This is good, right?
+
+[sharanya dave] 13:04:56
+Yeah.
+
+[Genius Machado] 13:04:59
+You're telling me if I hit run the code, it's gonna it's gonna be perfectly fine.
+
+[Christopher Ospina] 13:05:05
+But don't get your hopes to up. There might be errors, so.
+
+[Genius Machado] 13:05:06
+Okay. Okay.
+
+[sharanya dave] 13:05:07
+Yeah.
+
+[Christopher Ospina] 13:05:10
+And if there are, we gotta figure out around them.
+
+[Genius Machado] 13:05:13
+Yes, sir.
+
+[Christopher Ospina] 13:05:21
+See, I knew that was coming.
+
+[Genius Machado] 13:05:29
+You can handle a extra space.
+
+[Christopher Ospina] 13:05:33
+I think you have an extra space in my drive.
+
+[Genius Machado] 13:05:39
+Where's the where the file go? I don't.
+
+[Genius Machado] 13:05:42
+I just don't understand where the file go, like, you know, the drive has been mounted and.
+
+[sharanya dave] 13:05:50
+Yeah, yeah, I just loaded there.
+
+[Christopher Ospina] 13:05:53
+I think you should go back to your Google drive.
+
+[Genius Machado] 13:05:53
+This is not gonna work.
+
+[sharanya dave] 13:05:56
+Yep, yep, yep, yep.
+
+[Genius Machado] 13:05:58
+It's very sensitive, but I was in the.
+
+[Genius Machado] 13:06:05
+Okay.
+
+[Genius Machado] 13:06:08
+And I just uploaded over here. Make a new folder.
+
+[Christopher Ospina] 13:06:10
+Yeah.
+
+[Genius Machado] 13:06:11
+Oh, I think I do have it right. I am. DVD data set.
+
+[sharanya dave] 13:06:16
+I don't think.
+
+[Christopher Ospina] 13:06:20
+It's not there. You just up upload into the drive-in.
+
+[Christopher Ospina] 13:06:25
+I think it will be easier to. No, no, no!
+
+[Genius Machado] 13:06:25
+No folders. Yeah.
+
+[sharanya dave] 13:06:26
+No, not new!
+
+[Eva Montoya Davis] 13:06:29
+New file.
+
+[Genius Machado] 13:06:30
+Is the file.
+
+[Christopher Ospina] 13:06:31
+Just for new file upload.
+
+[Genius Machado] 13:06:33
+Okay. Okay, okay, I am giving you top 1,000.
+
+[Christopher Ospina] 13:06:37
+Yeah.
+
+[sharanya dave] 13:06:37
+Yeah.
+
+[Genius Machado] 13:06:42
+You know. Let's get back here.
+
+[Genius Machado] 13:06:49
+File, locate and drive.
+
+[Genius Machado] 13:06:54
+Can we do that?
+
+[Christopher Ospina] 13:06:56
+Let's try running again. Just simple as that.
+
+[Genius Machado] 13:06:59
+Oh!
+
+[Genius Machado] 13:07:04
+File, not found once again.
+
+[Christopher Ospina] 13:07:06
+Same thing.
+
+[Genius Machado] 13:07:09
+So it's it is.
+
+[Christopher Ospina] 13:07:10
+I think it's the extra space you have.
+
+[Genius Machado] 13:07:13
+Where?
+
+[Christopher Ospina] 13:07:15
+Between the slash and my drive.
+
+[sharanya dave] 13:07:20
+Yeah.
+
+[Genius Machado] 13:07:20
+Oh!
+
+[sharanya dave] 13:07:29
+I'm getting.
+
+[Eva Montoya Davis] 13:07:29
+You know.
+
+[Christopher Ospina] 13:07:30
+Try double quotes instead of single.
+
+[Genius Machado] 13:07:34
+Okay.
+
+[Eva Montoya Davis] 13:07:43
+Yup!
+
+[Genius Machado] 13:07:44
+What's the Arrow message?
+
+[sharanya dave] 13:07:45
+Yeah, and not use from the drive.
+
+[Genius Machado] 13:07:49
+I think it's this phase that's causing problem.
+
+[Genius Machado] 13:07:56
+What do you guys think?
+
+[Christopher Ospina] 13:07:58
+That's not it. Oh, you know what you're missing a slash before content.
+
+[Genius Machado] 13:08:02
+Well!
+
+[Genius Machado] 13:08:07
+Wow!
+
+[sharanya dave] 13:08:08
+Yeah, yeah.
+
+[Christopher Ospina] 13:08:11
+Oh!
+
+[Genius Machado] 13:08:14
+Wow!
+
+[Eva Montoya Davis] 13:08:17
+So!
+
+[Genius Machado] 13:08:18
+Where you know what. Let the master do his job. Please help me.
+
+[Genius Machado] 13:08:30
+Into.
+
+[Genius Machado] 13:08:35
+Cool that for python.
+
+[Genius Machado] 13:08:44
+Cool, and also.
+
+[Genius Machado] 13:09:02
+I wanna go eat at Mcdonalds.
+
+[Genius Machado] 13:09:06
+Yeah, I'm creating those price.
+
+[Genius Machado] 13:09:24
+That's what I did. Okay, Google drive by running the following code.
+
+[Genius Machado] 13:09:36
+Oh!
+
+[Genius Machado] 13:09:40
+See now, I'll get it.
+
+[Genius Machado] 13:10:07
+The drive wasn't mounted.
+
+[Genius Machado] 13:10:17
+But the thing just it still exists. P. Dot, Csv.
+
+[Eva Montoya Davis] 13:10:31
+Chicken in my dry, where it is.
+
+[Genius Machado] 13:10:34
+Is that the right way? He's doing it?
+
+[Genius Machado] 13:10:39
+Look, single invitation, code. So P. Did or read Csv.
+
+[Genius Machado] 13:10:44
+Uhhuh.
+
+[Eva Montoya Davis] 13:10:45
+Checking your chicken. You are too!
+
+[Eva Montoya Davis] 13:10:53
+Go to your drive, go to my drive.
+
+[Genius Machado] 13:10:53
+Okay, let me do that. I'm gonna do that.
+
+[Genius Machado] 13:10:59
+My drive right here
+
+[Eva Montoya Davis] 13:11:02
+Where is your? Where is your? You're fine.
+
+[Genius Machado] 13:11:04
+Hi! Alright! I Mtv.
+
+[Genius Machado] 13:11:17
+Let's show you the pattern.
+
+[Eva Montoya Davis] 13:11:22
+Yeah.
+
+[Eva Montoya Davis] 13:11:26
+Details.
+
+[Genius Machado] 13:11:27
+Yeah, it's here.
+
+[Eva Montoya Davis] 13:11:29
+Yeah.
+
+[Genius Machado] 13:11:35
+We doing something wrong with the mounting? I'm pretty sure.
+
+[Genius Machado] 13:11:45
+What if we put everything in each and every cell block like, you know?
+
+[Genius Machado] 13:11:49
+Stop putting everything in the cell blog, and then maybe.
+
+[Genius Machado] 13:11:56
+Wow!
+
+[Genius Machado] 13:13:35
+No! What did it stop? Why did it stop?
+
+[Genius Machado] 13:13:41
+I feel like it's stuck right?
+
+[Genius Machado] 13:14:22
+Wow! We are 1 h, 14 min in.
+
+[Genius Machado] 13:14:30
+This almost feels like a class. Well, me being professionally.
+
+[Christopher Ospina] 13:14:35
+Looks like really serious about our work.
+
+[Genius Machado] 13:14:41
+Yeah.
+
+[Genius Machado] 13:14:51
+If she sees the team doing all of these like, you know the Professor, I am sure she's gonna.
+
+[Genius Machado] 13:15:01
+She might like it. A number should be happy, though you know.
+
+[Genius Machado] 13:15:09
+I have a okay, whatever. Just copy that.
+
+[Christopher Ospina] 13:15:38
+We're getting somewhere. It printed out something.
+
+[Genius Machado] 13:15:41
+Yeah, it did.
+
+[Christopher Ospina] 13:15:43
+But it is a file that found error.
+
+[Genius Machado] 13:15:47
+Another, one!
+
+[Christopher Ospina] 13:15:48
+Go down!
+
+[Genius Machado] 13:15:52
+What line? Line 21.
+
+[Christopher Ospina] 13:15:54
+Yup!
+
+[Genius Machado] 13:15:56
+Pd. Don't read again.
+
+[Christopher Ospina] 13:15:58
+It's the same error we've been getting.
+
+[Genius Machado] 13:16:01
+Hmm, lusage file, and then I can contact. Maybe this.
+
+[Genius Machado] 13:16:07
+Oh, oh, oh, you see this, you see this? So? Yeah.
+
+[Christopher Ospina] 13:16:09
+Yep.
+
+[Christopher Ospina] 13:16:13
+We gotta change it.
+
+[Genius Machado] 13:16:15
+Yeah, yeah, yeah, yeah.
+
+[Christopher Ospina] 13:16:18
+Hopefully that works.
+
+[Eva Montoya Davis] 13:16:18
+To the name of the file.
+
+[Genius Machado] 13:16:20
+That should work, that should work.
+
+[Christopher Ospina] 13:16:23
+Yeah, it definitely should, since we got somewhere, since we.
+
+[Genius Machado] 13:16:28
+And we.
+
+[Christopher Ospina] 13:16:29
+Top. 1,000! Yes!
+
+[Genius Machado] 13:16:37
+1,000 anywhere else. No right that that was one.
+
+[Christopher Ospina] 13:16:40
+Yeah, let's try it.
+
+[Genius Machado] 13:16:43
+Boom!
+
+[Christopher Ospina] 13:16:48
+Okay, we've gone somewhere else.
+
+[Genius Machado] 13:16:51
+Somewhere else. Okay. Okay.
+
+[Christopher Ospina] 13:16:57
+So, at least in compile, but now it just crack!
+
+[Genius Machado] 13:16:58
+It's not so.
+
+[Genius Machado] 13:17:00
+Hmm!
+
+[Genius Machado] 13:17:03
+But what line, though? 36 31, there's no need.
+
+[Genius Machado] 13:17:09
+That's not even that. Many lines of code.
+
+[Eva Montoya Davis] 13:17:15
+There he is!
+
+[Genius Machado] 13:17:16
+There, here!
+
+[Eva Montoya Davis] 13:17:17
+Yeah. Yes. Yeah.
+
+[Genius Machado] 13:17:32
+Maybe.
+
+[Genius Machado] 13:17:36
+But I think this is not supposed to be like.
+
+[Genius Machado] 13:17:42
+Should we actually put this thing like, you know, individually, in each and every code cell block, and then try running 1, 2, 1, 1, one individually.
+
+[Genius Machado] 13:17:51
+So that we have everything. What do you guys think? Yeah.
+
+[Christopher Ospina] 13:17:54
+Yeah, do it more organized?
+
+[Genius Machado] 13:17:57
+Yeah. So if I'd like to split it from here, would is Google collapse smart enough to do it myself, like I have to do it all by myself, like an edit.
+
+[Christopher Ospina] 13:18:08
+That I don't know.
+
+[Genius Machado] 13:18:10
+Okay. Okay.
+
+[Genius Machado] 13:18:20
+Oh, man, this is so hectic. Okay, okay, command.
+
+[Genius Machado] 13:18:36
+And then.
+
+[Genius Machado] 13:18:39
+I actually don't even need the whole thing. I'm just gonna get rid of that.
+
+[Genius Machado] 13:18:46
+There you go! Start a new one.
+
+[Genius Machado] 13:18:50
+Yeah.
+
+[Genius Machado] 13:18:57
+And then I'm gonna start it this way. Copy.
+
+[Genius Machado] 13:19:07
+Copy. So we generally generally as simple as that.
+
+[Genius Machado] 13:19:24
+Okay, things are working. This is more easier to debug right?
+
+[Genius Machado] 13:20:26
+Underscore top on the scope of it.
+
+[Genius Machado] 13:20:31
+Get in there. Okay.
+
+[Genius Machado] 13:20:37
+Then we are remote.
+
+[Genius Machado] 13:20:51
+This is filling the missing values.
+
+[Genius Machado] 13:21:09
+That is being printed.
+
+[Genius Machado] 13:21:20
+Wait. Why is it not plotting nothing? Was there nothing over here?
+
+[Genius Machado] 13:21:26
+Cause we are. Wait, let's compare sub Plot.
+
+[Genius Machado] 13:21:28
+Number of rows, one number of columns, to be precise, welcome.
+
+[Genius Machado] 13:21:32
+Of what I'll be plotting. What is this plot?
+
+[Genius Machado] 13:21:34
+Oh, this is just like I think it's just taking out the space.
+
+[Genius Machado] 13:21:38
+It's allocating the space on the screen, and that's and there's not.
+
+[Genius Machado] 13:21:42
+No, see, there's no data to that. Maybe the next line does something.
+
+[Genius Machado] 13:21:44
+There you go!
+
+[Genius Machado] 13:22:01
+All right.
+
+[Genius Machado] 13:22:05
+Here's the issue.
+
+[Eva Montoya Davis] 13:22:06
+It's with a small, it's quite honest. Capital feature, feature. One.
+
+[Genius Machado] 13:22:13
+Oh! There is a in!
+
+[Genius Machado] 13:22:18
+Feature one. Okay, like this. No, I mean, even over here.
+
+[Genius Machado] 13:22:28
+Feature, one feature to feature, one.
+
+[Genius Machado] 13:22:33
+Ben's 20. It's fast, and something like Ben is 20.
+
+[Genius Machado] 13:22:58
+Like here.
+
+[Genius Machado] 13:23:06
+I was plotting a histogram, but.
+
+[Eva Montoya Davis] 13:23:11
+Replace the beans. Go any with 0 point 5.
+
+[Genius Machado] 13:23:18
+Just one. You want me to put it 45
+
+[Eva Montoya Davis] 13:23:19
+Yeah, let's see what happens.
+
+[Eva Montoya Davis] 13:23:24
+Nope!
+
+[Genius Machado] 13:23:34
+What do you have to say about this?
+
+[Eva Montoya Davis] 13:23:39
+What does it say at the bottom of the observation?
+
+[Genius Machado] 13:23:51
+Yeah, this, if we have a list like key check indexing Arrowville ways feature one.
+
+[Eva Montoya Davis] 13:23:59
+Yeah. Feature. One.
+
+[Genius Machado] 13:24:03
+Was the direct cause of the following exception. So feature one.
+
+[Genius Machado] 13:24:11
+That are feature. One is, is it? Is? Is it a capital F.
+
+[Eva Montoya Davis] 13:24:14
+Oh!
+
+[Genius Machado] 13:24:16
+Don't tell me that.
+
+[Christopher Ospina] 13:24:20
+Nope, that doesn't work either.
+
+[Eva Montoya Davis] 13:24:20
+Hmm! It's not. No. How is feature?
+
+[Genius Machado] 13:24:23
+Okay, so it is.
+
+[Eva Montoya Davis] 13:24:26
+One.
+
+[Eva Montoya Davis] 13:24:31
+Described that there? Each one. Yeah, is there a feature? One?
+
+[Genius Machado] 13:24:33
+Over here. There's nothing, there's nothing that's no, there is no, that is just feature. One.
+
+[Eva Montoya Davis] 13:24:38
+Somewhere.
+
+[Christopher Ospina] 13:24:42
+Do you have a charge? You could. You could plug your laptop in?
+
+[Eva Montoya Davis] 13:24:45
+So, maybe.
+
+[Christopher Ospina] 13:24:46
+I'm gonna watch your battery.
+
+[Genius Machado] 13:24:48
+Oh, thank you, Chris.
+
+[Eva Montoya Davis] 13:24:50
+Maybe they feature one is separated to separated words, because down there you can see feature.
+
+[Eva Montoya Davis] 13:25:01
+One is separated.
+
+[Genius Machado] 13:25:05
+Feature, one wait!
+
+[Eva Montoya Davis] 13:25:06
+There, you see feature. One is separated and.
+
+[Genius Machado] 13:25:12
+Okay, maybe you wanna like that way.
+
+[Eva Montoya Davis] 13:25:20
+Nope!
+
+[sharanya dave] 13:25:27
+Jean is. I don't think this is the correct code.
+
+[sharanya dave] 13:25:29
+The feature thing.
+
+[sharanya dave] 13:25:33
+Oh, wait!
+
+[Genius Machado] 13:25:33
+It's not right.
+
+[Genius Machado] 13:26:12
+Let's see if this one works, you know.
+
+[Genius Machado] 13:26:27
+Working, too, which means we.
+
+[Genius Machado] 13:26:43
+Hang on!
+
+[Christopher Ospina] 13:26:44
+Wait this chat. Gbt, no know your fields.
+
+[Genius Machado] 13:26:49
+What field!
+
+[Christopher Ospina] 13:26:51
+I need this chaty Tp. Know your.
+
+[Genius Machado] 13:26:55
+Environment.
+
+[Genius Machado] 13:26:59
+I'm working on Google. Oh, oh, oh, hear me!
+
+[Christopher Ospina] 13:27:04
+No, I mean, doesn't know about the the right headings for the data set.
+
+[Christopher Ospina] 13:27:15
+How might be the issue?
+
+[Genius Machado] 13:27:20
+So field feature one I'm supposed to pass it as like the actual title of the road that is at top.
+
+[Genius Machado] 13:27:29
+Underscore 1,000 under score. I'm Dv.
+
+[Genius Machado] 13:27:32
+Underscope on the score 1,000 dot Csv.
+
+[Genius Machado] 13:27:34
+Maybe that.
+
+[Christopher Ospina] 13:27:34
+Yes, you're supposed to actually pass it in.
+
+[Genius Machado] 13:27:36
+Oh!
+
+[Genius Machado] 13:27:40
+Then let's do it. That!
+
+[Christopher Ospina] 13:27:40
+And let's go back to the data set to see what your your columns are.
+
+[Genius Machado] 13:27:44
+Yeah, I I just yeah, yeah, I wanna do it.
+
+[Genius Machado] 13:27:48
+I just wanna I just wanna, you know, complete this thing like you know, once we do, it wouldn't do it all.
+
+[Genius Machado] 13:28:01
+Absolutely.
+
+[Genius Machado] 13:28:31
+Okay, where does it stop over here? Right? Fifth feature, one distribution.
+
+[Genius Machado] 13:28:37
+So yeah, data, feature one.
+
+[Genius Machado] 13:28:41
+This is gonna be okay. What do you wanna get the histogram for?
+
+[Genius Machado] 13:28:49
+Actually, you know what we don't even need this now.
+
+[Genius Machado] 13:28:51
+We will take a look over here over here. Yeah.
+
+[Christopher Ospina] 13:28:54
+Series, title, release your certificate, Runtime, genre Imdb.
+
+[Christopher Ospina] 13:28:59
+Raating oh, view, Metiscore, that's it!
+
+[Genius Machado] 13:29:02
+So let's yeah, where's the director?
+
+[Christopher Ospina] 13:29:03
+That's our columns. Oh, we also have director, too.
+
+[Christopher Ospina] 13:29:05
+I see that scroll down, scroll down there it is star one star, 2, star free!
+
+[Genius Machado] 13:29:08
+I don't see. Director. Oh, this one's oh, Frank!
+
+[Genius Machado] 13:29:14
+Oh, Christopher! Nolan, take a Christopher Nolan. Wow!
+
+[Eva Montoya Davis] 13:29:15
+On Negroes. Revenue.
+
+[Genius Machado] 13:29:18
+That's my guy.
+
+[sharanya dave] 13:29:20
+So, instead of feature, you have to write the column names.
+
+[Genius Machado] 13:29:22
+Yeah, you're right?
+
+[Genius Machado] 13:29:26
+But Chris gets the credit for debugging that error.
+
+[Christopher Ospina] 13:29:29
+Yes.
+
+[Eva Montoya Davis] 13:29:29
+There is no features, there is no distribution.
+
+[Genius Machado] 13:29:30
+Yes, he gets it.
+
+[Genius Machado] 13:29:34
+So what do you guys wanna go ahead with saying?
+
+[Genius Machado] 13:29:39
+Here, released you!
+
+[Genius Machado] 13:29:43
+We can put one as well list here. I don't mind.
+
+[sharanya dave] 13:29:46
+And we can do that.
+
+[Genius Machado] 13:29:47
+Okay. Released. Here.
+
+[Christopher Ospina] 13:29:49
+But just so to make sure that won't be our primary key.
+
+[Christopher Ospina] 13:29:55
+But we're just testing it to see if it works.
+
+[Eva Montoya Davis] 13:29:57
+No, instead of distribution instead of distribution. Yeah, that's instead of distribution.
+
+[Genius Machado] 13:30:00
+Each one distribution. Go ahead!
+
+[Eva Montoya Davis] 13:30:06
+You would have to put the year.
+
+[Genius Machado] 13:30:08
+Yeah. Title.
+
+[sharanya dave] 13:30:12
+Instead of I think so. It's instead of feature, one like in the in the first line.
+
+[Genius Machado] 13:30:17
+Yeah.
+
+[sharanya dave] 13:30:19
+It is of data of, yeah, the.
+
+[Genius Machado] 13:30:28
+Yeah, now, it's.
+
+[sharanya dave] 13:30:31
+No, there is the the number, or ndy array does not have a attribute called his.
+
+[Eva Montoya Davis] 13:30:34
+Nope!
+
+[Genius Machado] 13:30:41
+Object has no attribute, his.
+
+[Eva Montoya Davis] 13:30:42
+Yeah, there is no distribution, and there is no value. So the feature one.
+
+[Eva Montoya Davis] 13:30:49
+I don't think that it has to be changed because there is no column called Distribution.
+
+[Eva Montoya Davis] 13:30:55
+There is no column called value, so.
+
+[Genius Machado] 13:31:00
+Hmm!
+
+[Genius Machado] 13:31:06
+Wait. I wanna give you guys the access to this. But.
+
+[Genius Machado] 13:31:10
+All right, all we can. Do. You want me to Google this era?
+
+[sharanya dave] 13:31:18
+Right.
+
+[sharanya dave] 13:32:40
+So genius approved my request. I'll try doing.
+
+[Genius Machado] 13:32:45
+Okay.
+
+[Genius Machado] 13:32:59
+Yeah, you have it already.
+
+[sharanya dave] 13:33:01
+Oh, no, not that!
+
+[Genius Machado] 13:33:03
+Go paste email. Sd.
+
+[sharanya dave] 13:33:07
+Gender, access, no no!
+
+[Genius Machado] 13:33:13
+Well!
+
+[sharanya dave] 13:33:15
+Hello! On the gender access.
+
+[sharanya dave] 13:33:20
+Yeah.
+
+[Genius Machado] 13:33:20
+General access.
+
+[Genius Machado] 13:33:23
+You're the editor.
+
+[Genius Machado] 13:33:26
+No, this is not the way. It is not the way we stick to that.
+
+[Genius Machado] 13:33:31
+It has to be restricted. But I'll show you like in anyone with the link. So.
+
+[sharanya dave] 13:33:34
+You got a mail about accepting the request. Just go into your mailbox.
+
+[Genius Machado] 13:33:41
+I just did it. That's what I did.
+
+[Genius Machado] 13:33:42
+I selected.
+
+[sharanya dave] 13:33:48
+I don't know. I cannot get through.
+
+[Genius Machado] 13:33:54
+Is it because you're on the Mac?
+
+[sharanya dave] 13:34:00
+I cannot work on it.
+
+[Genius Machado] 13:34:04
+Wait. The reason why we started all of this is that we should be having this on a Google collapse.
+
+[sharanya dave] 13:34:11
+Okay, go ahead.
+
+[Genius Machado] 13:34:13
+Okay.
+
+[Genius Machado] 13:34:19
+So what needs to be fixed? Chan Gpd. Says, like, you know?
+
+[Genius Machado] 13:34:22
+Oh!
+
+[Christopher Ospina] 13:34:24
+Oh, Jpgp is just AI, so doesn't know what data set you're specifically using.
+
+[Genius Machado] 13:34:30
+Okay.
+
+[Christopher Ospina] 13:34:33
+Oh, I should regret saying that in case it comes back at me.
+
+[Genius Machado] 13:34:39
+Yeah.
+
+[Genius Machado] 13:34:50
+Hi!
+
+[Genius Machado] 13:34:53
+Can I can! I?
+
+[Genius Machado] 13:35:07
+Link to the data set? Where is the link to the data center?
+
+[Genius Machado] 13:35:12
+My, Github Repository is public, right? So I don't have to worry.
+
+[Genius Machado] 13:35:15
+I can just lap past the link over here, and I'll be good.
+
+[Genius Machado] 13:35:19
+There you go! That's what that is it perfect? Get the link copy that you have.
+
+[Genius Machado] 13:35:40
+Oh, you're telling me. I can import the data set from from.
+
+[Genius Machado] 13:35:48
+My URL, I don't have to have it on my drive and stuff.
+
+[Genius Machado] 13:35:52
+Bye!
+
+[Genius Machado] 13:36:11
+What's the status shut on now? What's the status?
+
+[sharanya dave] 13:36:13
+Okay.
+
+[Genius Machado] 13:36:20
+Ben's equal, 20 histogram feature, one release here.
+
+[Genius Machado] 13:36:23
+So, Jjpd said. You know that it it cannot do it, because no play does not have columns using the release.
+
+[Genius Machado] 13:36:33
+So fix this area, you can replace data released you with data.
+
+[Genius Machado] 13:36:38
+You see that?
+
+[Genius Machado] 13:36:40
+So that's how I do this.
+
+[Genius Machado] 13:36:44
+If this solves the issue.
+
+[Genius Machado] 13:36:49
+I'm gonna go dancing.
+
+[Genius Machado] 13:37:15
+Fine!
+
+[Christopher Ospina] 13:37:18
+Is Matlab that has hit.
+
+[Genius Machado] 13:37:18
+Oh, oh, oh, wait! Guys!
+
+[Genius Machado] 13:37:23
+I think it's you know his. So what's hit over here?
+
+[Genius Machado] 13:37:26
+Do we have something? Yeah, I I know it stands for histogram.
+
+[Eva Montoya Davis] 13:37:29
+Is still there.
+
+[Genius Machado] 13:37:30
+That's the application. But what is his and the on the code over here?
+
+[Genius Machado] 13:37:37
+Do we have something that specifically says about the yes, no, right?
+
+[Genius Machado] 13:37:44
+We don't have an object. We don't have no way. You will.
+
+[Genius Machado] 13:37:49
+Hmm. Attribute for.
+
+[Genius Machado] 13:37:57
+Nonparto and the area.
+
+[Eva Montoya Davis] 13:37:59
+You import all that?
+
+[Genius Machado] 13:38:05
+But are we doing it with Matt Ploy this operation, or is it with?
+
+[Christopher Ospina] 13:38:10
+It's the only way we could do this with map lab.
+
+[Genius Machado] 13:38:12
+Okay, so let's do with Matlab. You wanna do all the Eds with Matt Matlab.
+
+[Christopher Ospina] 13:38:19
+Wait! Do I have access to it?
+
+[Genius Machado] 13:38:21
+What?
+
+[Christopher Ospina] 13:38:22
+Your Google cloud file.
+
+[Genius Machado] 13:38:25
+Yeah. Yeah. Oh, no, actually no word. But let me do it right away.
+
+[Genius Machado] 13:38:29
+Chris.
+
+[Genius Machado] 13:38:32
+Okay, wow, you are. Are you holding an ice cream?
+
+[Christopher Ospina] 13:38:32
+No!
+
+[Christopher Ospina] 13:38:35
+Do it to my personal email.
+
+[Christopher Ospina] 13:38:39
+Oh, Sina, 99@gmail.com.
+
+[Christopher Ospina] 13:38:47
+That's me!
+
+[Christopher Ospina] 13:38:50
+It's a dull whip from Disney World.
+
+[Genius Machado] 13:38:53
+Wow! You've been to Disney. All you guys been a Disney. It's just me who is not been there now.
+
+[Eva Montoya Davis] 13:38:59
+I haven't been there either.
+
+[Christopher Ospina] 13:39:00
+Come on!
+
+[Genius Machado] 13:39:01
+I'll feel left out. Oh, my God, thank you! Thank you!
+
+[Genius Machado] 13:39:04
+Well, I I feel better now.
+
+[Genius Machado] 13:39:09
+I've heard like it's like in a kind of $200 day pass to get it out, and then you just have to.
+
+[Genius Machado] 13:39:15
+It. You can just get.
+
+[Christopher Ospina] 13:39:16
+The prices are too expensive.
+
+[Genius Machado] 13:39:20
+Yeah, but it's worth it.
+
+[Eva Montoya Davis] 13:39:22
+So guys, guys, I have to go. I have to go to physical therapy.
+
+[sharanya dave] 13:39:24
+It is.
+
+[Genius Machado] 13:39:28
+Oh, sure. All right, all right, cool. Thank you for this. That's all right.
+
+[Eva Montoya Davis] 13:39:30
+So I can be able to continue what?
+
+[Genius Machado] 13:39:35
+You'll still have the screen recording, and you can be.
+
+[Christopher Ospina] 13:39:36
+Oh, no! Hi! Battery!
+
+[Eva Montoya Davis] 13:39:44
+So please, if you can send me the recording.
+
+[Genius Machado] 13:39:48
+Sure!
+
+[Eva Montoya Davis] 13:39:49
+Okay, I'm sorry. Guys.
+
+[Christopher Ospina] 13:39:52
+Yeah, I'm fine.
+
+[Genius Machado] 13:39:52
+Well, no, it's all right, I know, is it?
+
+[sharanya dave] 13:39:54
+Okay.
+
+[Genius Machado] 13:39:56
+Still recording, yeah, it's recording, I guess.
+
+[Eva Montoya Davis] 13:39:57
+Yes.
+
+[Genius Machado] 13:39:59
+Alright. I'll post it. I posted and say, where can I post this recording?
+
+[Genius Machado] 13:40:04
+Huh! Get up! No, not get up, sure. Sure.
+
+[Christopher Ospina] 13:40:05
+Google, drive.
+
+[Eva Montoya Davis] 13:40:06
+Oh, when you finish when you finish. Okay?
+
+[Genius Machado] 13:40:10
+Yeah, you'll have the recording.
+
+[Eva Montoya Davis] 13:40:12
+Thank you.
+
+[Christopher Ospina] 13:40:15
+And how about me?
+
+[Genius Machado] 13:40:18
+Huh!
+
+[Genius Machado] 13:40:24
+So what about the error? Is someone working on the error?
+
+[sharanya dave] 13:40:26
+Yeah.
+
+[Genius Machado] 13:40:33
+Chris. Once the meeting is done, how can I save this transcript?
+
+[Christopher Ospina] 13:40:36
+Yeah.
+
+[Genius Machado] 13:40:38
+You see all these transcripts? It's a better way for documentation.
+
+[Genius Machado] 13:40:42
+Like all the conversations we had, and we have a list that are documented.
+
+[Christopher Ospina] 13:40:45
+You're supposed to call the his function with parentheses on it. Kate.
+
+[Genius Machado] 13:40:45
+So, okay.
+
+[Genius Machado] 13:40:50
+Over here.
+
+[Christopher Ospina] 13:40:55
+Where are you?
+
+[Genius Machado] 13:40:55
+No!
+
+[Genius Machado] 13:40:57
+Over here.
+
+[Christopher Ospina] 13:41:00
+I'm already on the file, but I don't see your head.
+
+[Genius Machado] 13:41:01
+From the same point.
+
+[Genius Machado] 13:41:05
+Well, I don't see you here. I don't see your work.
+
+[Genius Machado] 13:41:19
+I don't know. I don't know what's wrong.
+
+[Genius Machado] 13:41:21
+Maybe you can share your screen right. I'll stop sharing.
+
+[Christopher Ospina] 13:41:28
+Hmm! Where is the error?
+
+[Genius Machado] 13:41:28
+Yeah, you gotta run everything. First, you you gotta start running everything.
+
+[Genius Machado] 13:41:35
+First, yeah.
+
+[Genius Machado] 13:41:56
+Make sure you have a file in your on your Google, drive upload the file on your Google, drive the one that you have connected.
+
+[Christopher Ospina] 13:42:06
+It says I don't have it.
+
+[Genius Machado] 13:42:08
+Yeah, you got you got uploaded first, download it from the repository and just upload it over there.
+
+[Genius Machado] 13:42:28
+And how's the renovation going on, by the way, before your kitchen about a kitchen? Right, you said.
+
+[Christopher Ospina] 13:42:34
+The workers are not here today, but we got the backsplash installed.
+
+[Genius Machado] 13:42:39
+But they're not here today. They're on the spring break. I know they're taking a spring break. Yeah.
+
+[Christopher Ospina] 13:42:43
+But they're here tomorrow.
+
+[Genius Machado] 13:42:45
+Tomorrow. Okay.
+
+[Christopher Ospina] 13:42:48
+It says. The only thing I see is the Remy.
+
+[Genius Machado] 13:42:51
+Hey? What? No, it has to be there, I mean, I got files up there.
+
+[Genius Machado] 13:43:02
+There's files over there.
+
+[Genius Machado] 13:43:08
+Wait 1 s! Let me check!
+
+[Genius Machado] 13:43:17
+I can go over here, Python, Midterm Project.
+
+[Genius Machado] 13:43:20
+Yeah, there's files over here.
+
+[Genius Machado] 13:43:23
+You should just refresh it.
+
+[Christopher Ospina] 13:43:27
+I don't see anything.
+
+[Genius Machado] 13:43:37
+Sync folk. Oh, there you go! There you go! There you go!
+
+[Christopher Ospina] 13:43:39
+There it is!
+
+[Eva Montoya Davis] 13:43:47
+Bye, guys!
+
+[Genius Machado] 13:43:49
+Bye, bye, take care!
+
+[Christopher Ospina] 13:43:49
+Bye!
+
+[Eva Montoya Davis] 13:43:51
+Thanks.
+
+[Christopher Ospina] 13:44:01
+Is, where is there a way to download this individually?
+
+[Genius Machado] 13:44:06
+Yeah, you can just download it right? Click it.
+
+[Genius Machado] 13:44:13
+No, no, no, no, no! Go go to the go to the file.
+
+[Genius Machado] 13:44:20
+No, it's actually yeah. And then download that one.
+
+[Genius Machado] 13:44:23
+Yeah, no, don't right click. You just click it.
+
+[Genius Machado] 13:44:27
+Hey? You could just click yeah, and then then download it. Yeah.
+
+[Genius Machado] 13:44:33
+Oh, no, no, no, it's not that way.
+
+[Genius Machado] 13:44:46
+No, you don't copy that. It's a bad idea.
+
+[Christopher Ospina] 13:44:50
+Hmm!
+
+[Christopher Ospina] 13:44:53
+Hello! I don't see the download button.
+
+[sharanya dave] 13:44:53
+Hi, Sandy! It is!
+
+[Genius Machado] 13:44:57
+Okay.
+
+[sharanya dave] 13:44:58
+It's now loaded. From Whatsapp. I send it in the group.
+
+[Genius Machado] 13:45:03
+Oh!
+
+[Genius Machado] 13:45:23
+In the next 15 min at 20'clock. I guess we're taking on lunch. Break.
+
+[Genius Machado] 13:45:50
+You can. You can get the file. Whatsapp.
+
+[Christopher Ospina] 13:45:53
+I don't have Whatsapp on my PC.
+
+[Genius Machado] 13:45:53
+She posted on.
+
+[Genius Machado] 13:45:55
+You want me to email it to you? I can. I can write it.
+
+[Genius Machado] 13:45:59
+I can write it an email first.
+
+[Christopher Ospina] 13:46:00
+Sure!
+
+[Genius Machado] 13:46:03
+What do you want on your pace? That email? Yeah.
+
+[Christopher Ospina] 13:46:05
+Yes.
+
+[Christopher Ospina] 13:46:10
+Yeah.
+
+[Genius Machado] 13:46:26
+You live in Pleasantville? White Plains. Wow!
+
+[Christopher Ospina] 13:46:28
+I live in Long Island.
+
+[Genius Machado] 13:46:35
+So better. I like it.
+
+[Genius Machado] 13:46:40
+It's kind of peaceful over there. It's kind of spaced out.
+
+[Genius Machado] 13:46:43
+Unlike New York City.
+
+[Genius Machado] 13:46:47
+You have it. You have the file now.
+
+[Christopher Ospina] 13:46:51
+Okay, let me see if I it's there.
+
+[Christopher Ospina] 13:47:00
+Yeah, it's on my phone. But from my computer I can't get it.
+
+[Genius Machado] 13:47:05
+Okay, so why do you want me to? What's connected your computer negative?
+
+[Genius Machado] 13:47:09
+Gmail, your personal email.
+
+[Christopher Ospina] 13:47:10
+Wait! Outlook itself, is there?
+
+[Christopher Ospina] 13:47:20
+Tried Gmail Alex's not working on my PC. For some reason.
+
+[Genius Machado] 13:47:22
+Okay.
+
+[Genius Machado] 13:47:27
+Outlook is crazy.
+
+[Genius Machado] 13:47:33
+It's free. It's awesome, though 98@theratefor.com.
+
+[Genius Machado] 13:47:40
+Did I say that? Right?
+
+[Christopher Ospina] 13:47:43
+Oh, wait!
+
+[Genius Machado] 13:47:46
+Yeah.
+
+[Genius Machado] 13:47:51
+I can't see you asleep.
+
+[Christopher Ospina] 13:47:52
+If I put the path, I think if I put the password in, it might work.
+
+[Genius Machado] 13:47:56
+Okay.
+
+[Christopher Ospina] 13:47:57
+Okay.
+
+[Christopher Ospina] 13:48:31
+No outlook doesn't work. Just send it to my regular email.
+
+[Genius Machado] 13:49:37
+Hello!
+
+[Christopher Ospina] 13:49:38
+Yeah, I hear you. Hello!
+
+[Christopher Ospina] 13:49:43
+Gonna check in my email, is there?
+
+[Genius Machado] 13:49:47
+Yeah, 1, 60 on the 61 William Street. Yeah. And it's on.
+
+[Genius Machado] 13:49:51
+It's on the eighth floor, eighth floor.
+
+[Genius Machado] 13:49:55
+Yeah.
+
+[Genius Machado] 13:50:00
+Yeah, go ahead. I'm listening.
+
+[Genius Machado] 13:50:08
+Well the different different departments, but you find all of them at the same, the same them, you know compartment, and once you get in the walk in the office.
+
+[Genius Machado] 13:50:23
+So are you being assisted by somebody? Just talk to student accounts, cause there's nothing to do with financial aid.
+
+[Genius Machado] 13:50:29
+Yeah, student, account.
+
+[Genius Machado] 13:50:35
+Yep, have a good one.
+
+[Genius Machado] 13:50:39
+Sorry I got distracted. I I got a call.
+
+[Christopher Ospina] 13:50:42
+Oh, student accounts!
+
+[Genius Machado] 13:50:44
+No, actually, one of my friends is limiting student accounts, and she got confused.
+
+[Genius Machado] 13:50:48
+She's like, you know. Should I be heading towards financially?
+
+[Genius Machado] 13:50:53
+Financially aid, or like student accounts.
+
+[Christopher Ospina] 13:50:53
+Most are always confusing.
+
+[Genius Machado] 13:50:56
+Yeah, it's I mean, it's the same. Them office space.
+
+[Genius Machado] 13:51:00
+But they shared rooms. And like whatever these guys are crazy.
+
+[Genius Machado] 13:51:06
+Have you been able to share their?
+
+[sharanya dave] 13:51:09
+Yeah, yeah.
+
+[Genius Machado] 13:51:12
+She's still here. She's still here. I thought she I thought she left.
+
+[sharanya dave] 13:51:15
+No, I did not.
+
+[Christopher Ospina] 13:51:19
+Well, just send it to my gmail account. I'm about to take a lunch break soon, and I'll come back.
+
+[Genius Machado] 13:51:25
+Okay, sure, sure. All right. By the time I'll have you the data sets set for your Gmail.
+
+[Christopher Ospina] 13:51:30
+Okay. Thanks.
+
+[Genius Machado] 13:51:32
+Okay.
+
+[Christopher Ospina] 13:51:33
+Bye, for now!
+
+[Genius Machado] 13:51:35
+Bye!
+
+[sharanya dave] 13:51:35
+Hmm!
+
+[sharanya dave] 13:51:58
+Yeah.
+
+[Genius Machado] 13:52:15
+Okay.
+
+[Genius Machado] 13:52:27
+Hi! Simon!
+
+[sharanya dave] 13:52:31
+Oh!
+
+[Genius Machado] 13:52:44
+But 30. May I have to put?
+
+[Genius Machado] 13:53:11
+Maybe
+
+[sharanya dave] 13:53:20
+I'm going to have my lunch soon, either. We big day bye.
+
+[sharanya dave] 13:53:27
+Everyday.
+
+[Genius Machado] 13:53:40
+That is.
+
+[sharanya dave] 13:53:44
+Hey!
+
+[sharanya dave] 13:53:50
+One got the recording who gave her down.
+
+[sharanya dave] 13:53:59
+Yeah.
+
+[Genius Machado] 13:54:03
+Huh!
+
+[sharanya dave] 13:54:25
+But I gpa or my father you my dad uses it.
+
+[sharanya dave] 13:54:55
+Week, 5.
+
+[Genius Machado] 13:55:04
+Professor different.
+
+[sharanya dave] 13:55:14
+Hi Python. Note books of media.
+
+[Genius Machado] 13:55:23
+That you read it.
+
+[sharanya dave] 13:55:28
+You did it.
+
+[sharanya dave] 13:55:31
+Yeah.
+
+[Genius Machado] 13:55:36
+That is.
+
+[sharanya dave] 13:55:58
+Hmm!
+
+[sharanya dave] 13:56:15
+Hey, man! A screenshot.
+
+[Genius Machado] 13:56:17
+Oh!
+
+[Genius Machado] 13:56:24
+How can you man it, alien or with, you know, with Tuesday, J. And 30. First of no conversation, whether.
+
+[sharanya dave] 13:56:30
+I won't!
+
+[Genius Machado] 13:56:32
+It's part of the year.
+
+[Genius Machado] 13:56:35
+At least. Oh, proof! Familiar!
+
+[Genius Machado] 13:56:47
+Yeah, what?
+
+[sharanya dave] 13:56:53
+Yup!
+
+[Genius Machado] 13:56:57
+Chris.
+
+[sharanya dave] 13:57:02
+Hey? I was all dead.
+
+[Genius Machado] 13:57:17
+But 8 min.
+
+[Genius Machado] 13:57:40
+So many a files here.
+
+[Genius Machado] 13:57:56
+Yeah.
+
+[Genius Machado] 13:58:01
+I'm Disney right here.
+
+[sharanya dave] 13:58:03
+Hello! Again! Let me!
+
+[Genius Machado] 13:58:13
+Hey!
+
+[sharanya dave] 13:58:25
+So much!
+
+[Genius Machado] 13:59:11
+Uhhuh.
+
+[Genius Machado] 13:59:20
+So Steven.
+
+[sharanya dave] 13:59:24
+Thank you.
+
+[sharanya dave] 13:59:40
+Miller, Hi Daniel!
+
+[Genius Machado] 13:59:53
+I don't have that.
+
+[sharanya dave] 14:00:06
+Yeah.
+
+[Genius Machado] 14:00:07
+Okay. IP, L.
+
+[Genius Machado] 14:00:18
+Yeah.
+
+[sharanya dave] 14:00:18
+Open it. A Vs code file.
+
+[Genius Machado] 14:00:30
+Okay. Open. Notebook.
+
+[sharanya dave] 14:00:38
+Download. Yeah, I do, yeah.
+
+[Genius Machado] 14:00:46
+Data center in local.
+
+[sharanya dave] 14:00:51
+We understood B is equal to Pd. Dot read A. Csv.
+
+[Genius Machado] 14:00:56
+Hmm!
+
+[sharanya dave] 14:01:07
+Okay.
+
+[Genius Machado] 14:01:08
+I think. No, no, this is this is this is.
+
+[sharanya dave] 14:01:12
+Yeah, hi, Csv, first is IP and matches.
+
+[Genius Machado] 14:01:24
+Hmm!
+
+[Genius Machado] 14:01:28
+That is all good.
+
+[Genius Machado] 14:01:37
+Wait! Wait! Wait! Let me see!
+
+[Genius Machado] 14:01:51
+Okay, but your login name.
+
+[Genius Machado] 14:01:56
+Hello!
+
+[sharanya dave] 14:01:59
+I can do something. Ipl ballball.
+
+[Genius Machado] 14:02:07
+Let us pass. Hmm!
+
+[sharanya dave] 14:02:10
+Let's just pass the name of the Excel name on the Csv file.
+
+[sharanya dave] 14:02:16
+And write something else instead of the underscore.
+
+[Genius Machado] 14:02:22
+I'm doing.
+
+[sharanya dave] 14:02:22
+Well, it's I underscore tab. I am reading this code top underscore 1,000.
+
+[sharanya dave] 14:02:38
+How are you?
+
+[Genius Machado] 14:02:43
+This is not.
+
+[Genius Machado] 14:02:48
+Even this is not texted at all.
+
+[Genius Machado] 14:03:45
+That I said right here, local data set up a data setting here.
+
+[sharanya dave] 14:03:54
+Yeah.
+
+[sharanya dave] 14:04:29
+Hmm. Oh, yeah.
+
+[Genius Machado] 14:04:50
+It is because.
+
+[Genius Machado] 14:04:58
+Oh!
+
+[Genius Machado] 14:05:03
+Yeah.
+
+[Genius Machado] 14:05:12
+To be, it would be, hey!
+
+[sharanya dave] 14:05:14
+Meet you.
+
+[sharanya dave] 14:05:25
+Yeah.
+
+[Genius Machado] 14:05:27
+Okay.
+
+[Genius Machado] 14:05:31
+1,000 pros, if not bad.
+
+[sharanya dave] 14:05:38
+Have a good
+
+[Genius Machado] 14:05:56
+What?
+
+[sharanya dave] 14:06:05
+Hiya!
+
+[Genius Machado] 14:06:07
+Hmm!
+
+[sharanya dave] 14:06:09
+Yeah.
+
+[Genius Machado] 14:06:35
+Okay.
+
+[sharanya dave] 14:06:39
+That doesn't find quite.
+
+[Genius Machado] 14:06:41
+Thank you. Fantasy. Understand, Jim.
+
+[sharanya dave] 14:06:47
+Log, in.
+
+[sharanya dave] 14:07:00
+Hey, Jupiter! We do not attend.
+
+[sharanya dave] 14:07:17
+Oh, okay, just copy. I Amdb and start pasting everywhere.
+
+[Genius Machado] 14:07:29
+Hmm! No!
+
+[Genius Machado] 14:07:44
+Find and replace.
+
+[sharanya dave] 14:07:46
+Yeah.
+
+[Genius Machado] 14:07:50
+I can.
+
+[sharanya dave] 14:07:53
+It's gonna be nice don't know you don't know these basic shortcuts.
+
+[Genius Machado] 14:07:53
+I can.
+
+[sharanya dave] 14:07:58
+Genius, right.
+
+[sharanya dave] 14:08:02
+Hi! I'm Davie!
+
+[Genius Machado] 14:08:02
+Okay.
+
+[sharanya dave] 14:08:15
+We don't want the columns and anything.
+
+[Genius Machado] 14:08:26
+Fine. Miss. Hmm!
+
+[sharanya dave] 14:08:42
+The.
+
+[sharanya dave] 14:08:48
+Hmm!
+
+[Genius Machado] 14:08:50
+Yeah.
+
+[sharanya dave] 14:09:41
+Hmm!
+
+[sharanya dave] 14:09:55
+I am hungry.
+
+[Genius Machado] 14:09:57
+Number 2.
+
+[Genius Machado] 14:10:32
+Hey! Huh!
+
+[sharanya dave] 14:10:33
+Yeah.
+
+[sharanya dave] 14:10:48
+Yeah. Hey? Vienna?
+
+[Genius Machado] 14:10:59
+Hmm!
+
+[Genius Machado] 14:11:06
+Shape, viewer.
+
+[Genius Machado] 14:11:12
+Okay.
+
+[sharanya dave] 14:11:13
+Let me give you. Okay, go ahead. Take care.
+
+[sharanya dave] 14:11:29
+Hey, guys, tilt the function of the top 10 is top 5.
+
+[Genius Machado] 14:11:37
+First Andros, 10.
+
+[Genius Machado] 14:11:41
+So your immediate are the results for index main standard. Oh, for Jovi!
+
+[sharanya dave] 14:11:52
+What?
+
+[sharanya dave] 14:11:58
+Yeah, I am.
+
+[Genius Machado] 14:11:59
+Numerica waiting with them, Jovin, you were in data I had a flawed with how he goes.
+
+[Genius Machado] 14:12:03
+If?
+
+[Genius Machado] 14:12:07
+Hey! There!
+
+[Genius Machado] 14:12:19
+I am.
+
+[sharanya dave] 14:12:30
+Dfdf, dot final values, hey, df, data.
+
+[Genius Machado] 14:12:50
+Yeah.
+
+[Genius Machado] 14:12:59
+Yeah, yeah.
+
+[Genius Machado] 14:13:04
+I amd be able.
+
+[Genius Machado] 14:13:07
+Imdv is the data frame.
+
+[sharanya dave] 14:13:07
+Okay.
+
+[Genius Machado] 14:13:14
+It is Imdb.
+
+[sharanya dave] 14:13:16
+So then we dot final one. No imdb dot dot final values under row bracket.
+
+[sharanya dave] 14:13:23
+Maybe I Amdb.
+
+[Genius Machado] 14:13:34
+Hey! David!
+
+[sharanya dave] 14:13:50
+Hmm!
+
+[sharanya dave] 14:13:52
+Data frame.
+
+[Genius Machado] 14:14:03
+Fine!
+
+[Genius Machado] 14:14:16
+Find null values as you function in a U os.om, huh?
+
+[sharanya dave] 14:14:17
+Hmm.
+
+[Genius Machado] 14:14:47
+Me!
+
+[Genius Machado] 14:14:56
+Thank you.
+
+[sharanya dave] 14:14:57
+Hello. Yeah. Again.
+
+[sharanya dave] 14:15:34
+The number, the ring.
+
+[sharanya dave] 14:15:38
+Yeah.
+
+[Genius Machado] 14:16:29
+Hey!
+
+[sharanya dave] 14:16:29
+Import OS.
+
+[sharanya dave] 14:16:36
+Chad!
+
+[sharanya dave] 14:16:49
+Yeah. Hey? Idea of my confusion over? Hmm.
+
+[Genius Machado] 14:16:59
+Hey!
+
+[Genius Machado] 14:17:18
+What is the hey? There again!
+
+[Genius Machado] 14:17:27
+Okay.
+
+[Genius Machado] 14:17:36
+Cool.
+
+[Genius Machado] 14:18:04
+Hi erin.
+
+[Genius Machado] 14:18:09
+Okay.
+
+[sharanya dave] 14:18:21
+Not by?
+
+[sharanya dave] 14:18:24
+Yeah.
+
+[sharanya dave] 14:18:40
+Not the direct? 3.
+
+[sharanya dave] 14:18:56
+Oh, yeah.
+
+[sharanya dave] 14:19:07
+I am.
+
+[sharanya dave] 14:19:13
+How about I am?
+
+[Genius Machado] 14:19:16
+Yeah.
+
+[sharanya dave] 14:19:23
+Not
+
+[Genius Machado] 14:19:23
+No!
+
+[Genius Machado] 14:19:27
+Oh, shit! Have you?
+
+[sharanya dave] 14:19:27
+Okay.
+
+[sharanya dave] 14:19:31
+Please. Hi. Essendon. All the missing values.
+
+[sharanya dave] 14:19:35
+Take care!
+
+[sharanya dave] 14:19:39
+So, okay.
+
+[Genius Machado] 14:19:46
+No problem.
+
+[sharanya dave] 14:19:48
+I don't think we need to do. We need to put something so that we can take out the group by it's still a data X numbering a data set.
+
+[Genius Machado] 14:19:55
+And.
+
+[sharanya dave] 14:20:00
+We don't have a winning team named Column.
+
+[Genius Machado] 14:20:04
+We have released it. Yeah.
+
+[sharanya dave] 14:20:06
+Or have released it. But you cannot group by on release date. Can you?
+
+[sharanya dave] 14:20:23
+You don't.
+
+[Genius Machado] 14:20:23
+Yes.
+
+[Genius Machado] 14:20:27
+Released here!
+
+[sharanya dave] 14:20:27
+We don't have ideally.
+
+[Genius Machado] 14:20:41
+Then.
+
+[Genius Machado] 14:20:49
+Hey!
+
+[sharanya dave] 14:20:55
+Listen.
+
+[Genius Machado] 14:20:57
+Imdb has no attribute. Group by.
+
+[Genius Machado] 14:21:02
+Hello!
+
+[Genius Machado] 14:21:08
+Module, imdb wait module, Imdbq time to become module.
+
+[Genius Machado] 14:21:11
+3 am. Hmm!
+
+[Genius Machado] 14:21:22
+Yeah.
+
+[sharanya dave] 14:21:23
+Yeah.
+
+[sharanya dave] 14:21:28
+Oh!
+
+[sharanya dave] 14:21:54
+Because you need the Id for group by. If you want to do group by.
+
+[Genius Machado] 14:22:03
+Cool.
+
+[sharanya dave] 14:22:12
+Yeah.
+
+[sharanya dave] 14:22:15
+Yeah, yeah, exactly.
+
+[Genius Machado] 14:22:21
+Available. I'm signing.
+
+[sharanya dave] 14:22:35
+Good.
+
+[sharanya dave] 14:22:41
+We want this thing poster, whatever this is, do we really wanted?
+
+[Genius Machado] 14:22:41
+Postal line again, either.
+
+[sharanya dave] 14:22:57
+First post.
+
+[Genius Machado] 14:23:02
+Midway.
+
+[Genius Machado] 14:23:11
+This one?
+
+[sharanya dave] 14:23:13
+Yeah, I have a number one, a one, a one. Insert.
+
+[sharanya dave] 14:23:18
+Insert. Insert. Yeah.
+
+[Genius Machado] 14:23:21
+Okay.
+
+[Genius Machado] 14:23:28
+Excellent!
+
+[sharanya dave] 14:23:40
+Don't do this 1,000.
+
+[Genius Machado] 14:23:48
+Hey! There!
+
+[Genius Machado] 14:23:51
+Hey!
+
+[sharanya dave] 14:24:13
+I'll do it. Yeah.
+
+[Genius Machado] 14:24:14
+Yeah, bye.
+
+[Genius Machado] 14:24:26
+Yeah.
+
+[sharanya dave] 14:25:10
+Hi
+
+[sharanya dave] 14:25:26
+She's not in python. She's in.
+
+[sharanya dave] 14:25:29
+Web development.
+
+[sharanya dave] 14:25:34
+Should we get a for 8 IP multiple data hotel group by user? Then?
+
+[Genius Machado] 14:26:00
+Okay, 20 lines. We have done.
+
+[Genius Machado] 14:26:08
+Not 20 lines. We've done more.
+
+[Genius Machado] 14:26:18
+Hmm!
+
+[Genius Machado] 14:26:23
+Hmm!
+
+[Genius Machado] 14:26:45
+Hey? First duplicated data. I have.
+
+[Genius Machado] 14:26:50
+We can do group by bit.
+
+[sharanya dave] 14:26:57
+With your we can do. You're 9. We cannot do number of words.
+
+[Genius Machado] 14:26:58
+Right. We cannot do it here. We can do with number of okay.
+
+[Genius Machado] 14:27:03
+Number of words.
+
+[Genius Machado] 14:27:10
+In Meta Score.
+
+[sharanya dave] 14:27:15
+We came over released, year before in 19 nineties. It's an hour 1992 do we have the data like that?
+
+[Genius Machado] 14:27:19
+Hmm!
+
+[sharanya dave] 14:27:21
+We do take first or 1994 where I can. Thirteenth will have been 1990 for my Forrest Gump kernel drag around me 1994.
+
+[Genius Machado] 14:27:32
+Hey! There!
+
+[Genius Machado] 14:27:36
+Can you log in it already?
+
+[Genius Machado] 14:27:39
+Okay.
+
+[sharanya dave] 14:27:45
+Group by industry, okay.
+
+[Genius Machado] 14:27:48
+Group, by.
+
+[sharanya dave] 14:27:55
+Series, title, name.
+
+[Genius Machado] 14:28:01
+1994 or.
+
+[Genius Machado] 14:28:06
+Hey! Cool!
+
+[sharanya dave] 14:28:21
+Yeah, yeah.
+
+[Genius Machado] 14:28:21
+Series, title, yeah. Hey? There!
+
+[Genius Machado] 14:28:30
+Hmm!
+
+[sharanya dave] 14:28:38
+Goodbye!
+
+[Genius Machado] 14:28:43
+Mtv. Has no real event. Qa.
+
+[Genius Machado] 14:29:00
+No, I'm.
+
+[sharanya dave] 14:29:01
+I am divorced. You don't have a group by scheme.
+
+[Genius Machado] 14:29:18
+Final. I'll do say average battery when total matches.
+
+[Genius Machado] 14:29:26
+Here area e, the co- winning team.
+
+[sharanya dave] 14:29:27
+Hmm!
+
+[Genius Machado] 14:29:31
+Me! Huh!
+
+[sharanya dave] 14:29:38
+Released your underscore year.
+
+[sharanya dave] 14:29:48
+How are you? I am!
+
+[sharanya dave] 14:29:57
+Yeah, I zoom this. See? You.
+
+[Genius Machado] 14:29:59
+Oh, I'm curious!
+
+[Genius Machado] 14:30:02
+Evie, even!
+
+[sharanya dave] 14:30:13
+Hmm!
+
+[Genius Machado] 14:30:26
+The gallery will be there.
+
+[sharanya dave] 14:30:33
+Hey, buddy. Hmm, okay.
+
+[sharanya dave] 14:30:40
+Bye, bye.
+
+[Genius Machado] 14:30:43
+Yeah.
+
+[sharanya dave] 14:31:03
+Double double wise, I mean double slash equation.
+
+[Genius Machado] 14:31:08
+Yeah.
+
+[sharanya dave] 14:31:32
+Oh!
+
+[Genius Machado] 14:31:35
+Wait, so say first is, let me stop sharing. Pause.
+
+[sharanya dave] 14:31:44
+Hmm!
+
+[sharanya dave] 14:32:01
+Sure!
+
+[Genius Machado] 14:32:02
+The recording stop recording, according to the clar. Are you sure you want to stop recording to the cloud?
+
+[Genius Machado] 14:32:09
+Yes, email location. And the cloud recording, is it pretty quick? Cloud?
+
+[sharanya dave] 14:32:13
+Yeah. But the room brings.
+
+[Genius Machado] 14:32:28
+Okay, wait. I want a transcript. Oh, under transcripts.
+
+[Genius Machado] 14:32:36
+Whichever you full transcripts.
+
+[Genius Machado] 14:32:42
+Beautiful. There it is!
+
+[sharanya dave] 14:32:45
+Thank you.
+
+[Genius Machado] 14:32:47
+1231 onwards. Okay, or download it.
+
+[sharanya dave] 14:32:53
+You guys meet tomorrow. 110'clock all day.
+
+[sharanya dave] 14:33:01
+Good.
+
+[Genius Machado] 14:33:06
+I would transfer you up on Boulder. That's what I'm saying.
+
+[sharanya dave] 14:33:23
+Good.
+
+[Genius Machado] 14:33:36
+That is what I'm saying.
+
+[Genius Machado] 14:33:40
+Hmm! Great!
+
+[Genius Machado] 14:33:46
+Okay.
+
+[Genius Machado] 14:33:53
+Hmm!
+
+[Genius Machado] 14:34:06
+How many a zoom man!
+
+[Genius Machado] 14:34:14
+Documents, Zoom.
+
+[Genius Machado] 14:34:18
+2 days. 13. Are you serious?
+
+[sharanya dave] 14:34:21
+Hey!
+
+[sharanya dave] 14:34:33
+Hey!
+
+[Genius Machado] 14:34:40
+Or is this?
+
+[Genius Machado] 14:34:49
+Great.
+
+[Genius Machado] 14:34:52
+Ava!
+
+[Genius Machado] 14:35:04
+Okay.
+
+[Genius Machado] 14:35:16
+Sure!
+
+[sharanya dave] 14:35:18
+Hi! Again!
+
+[sharanya dave] 14:35:24
+Thank you.
+
+[Genius Machado] 14:35:27
+Just computer okay, okay.
+
+[Genius Machado] 14:35:33
+Controller.
+
+[Genius Machado] 14:35:43
+Okay.
+
+[Genius Machado] 14:35:46
+Okay.
+
+[sharanya dave] 14:35:58
+Yeah.
+
+[sharanya dave] 14:36:02
+Hey, Jamie?
+

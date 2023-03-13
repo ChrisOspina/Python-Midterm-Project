@@ -1,0 +1,17 @@
+12:18:21 From  Christopher Ospina  to  Everyone:
+	https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
+12:18:40 From  Genius Machado  to  Everyone:
+	https://github.com/GeniusMachado/Python-Midterm-Project
+12:24:34 From  Eva Montoya Davis  to  Everyone:
+	em20534p
+13:03:18 From  Christopher Ospina  to  Everyone:
+	content/drive/ My Drive/'filename'
+13:03:21 From  Genius Machado  to  Everyone:
+	got it
+13:47:35 From  sharanya dave  to  Genius Machado(Direct Message):
+	Pagal h kya yh
+14:16:42 From  sharanya dave  to  Genius Machado(Direct Message):
+	import os
+	path = '/content/drive/MyDrive/py midterm'
+	os.chdir(path)
+	import omkar as om\
